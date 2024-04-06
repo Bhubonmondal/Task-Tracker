@@ -49,7 +49,7 @@ class PathHelper extends ChangeNotifier {
     ];
     var month = monthList[DateTime.now().month - 1];
 
-    if(title.isNotEmpty || desc.isNotEmpty){
+    if(title.isNotEmpty && desc.isNotEmpty){
       taskTitle.add(title);
       taskDescription.add(desc);
       taskStoreTimg.add("${DateTime.now().day}$name $month");
@@ -60,6 +60,9 @@ class PathHelper extends ChangeNotifier {
       taskDescriptionContoller.clear();
       Navigator.pop(context);
       showToast('New Task Added ✅', context: context);
+    }
+    else{
+      showToast("Fields can't be blank", context: context);
     }
     count++;
     notifyListeners();
