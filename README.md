@@ -6,6 +6,8 @@
 
 SDK version required >=3.3.2 <4.0.0
 
+If facing any issue, while installing flutter please, install **task tracker.apk**
+
 
 
 
