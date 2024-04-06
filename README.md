@@ -4,6 +4,15 @@
 -Navigate to the directory
 -flutter run
 
+SDK version required >=3.3.2 <4.0.0
+
+![1](https://github.com/Bhubonmondal/task-tracker/assets/76626813/41221fa1-0c6a-46d6-a8c6-13ee43815887)
+![2](https://github.com/Bhubonmondal/task-tracker/assets/76626813/aa0e4f0a-a68c-4b00-b9f0-2489ce20319b)
+![3](https://github.com/Bhubonmondal/task-tracker/assets/76626813/4679e78d-53a6-43cd-987b-345fc766805b)
+![4](https://github.com/Bhubonmondal/task-tracker/assets/76626813/acbe9509-eb99-4146-84b1-1a07c04f9319)
+![5](https://github.com/Bhubonmondal/task-tracker/assets/76626813/9e7908ed-535d-4530-95d0-f9a7be253454)
+![6](https://github.com/Bhubonmondal/task-tracker/assets/76626813/3036528b-15ce-4d52-aef4-872f646d1ca5)
+
 
 ## ****Requirements Fullfilled:****
 
